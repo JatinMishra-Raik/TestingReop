@@ -16,3 +16,6 @@
 * Download the following files from the Oracle Instant Client downloads page:
 * instantclient-basic-windows.x64-19.24.0.0.0dbru.zip
 * instantclient-odbc-windows.x64-19.24.0.0.0dbru.zip
+  * h1
+  * h2
+  * h3
