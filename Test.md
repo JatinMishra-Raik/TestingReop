@@ -10,3 +10,9 @@
         C:\oracle\instantclient-basic-windows.x64-19.24.0.0.0dbru<br>
         C:\oracle\instantclient-odbc-windows.x64-19.24.0.0.0dbru<br>
 ![Added Image](./Screenshot-2024-11-06-110901.png)
+
+
+## Step 1: Download Oracle Instant Client Files
+* Download the following files from the Oracle Instant Client downloads page:
+* instantclient-basic-windows.x64-19.24.0.0.0dbru.zip
+* instantclient-odbc-windows.x64-19.24.0.0.0dbru.zip
