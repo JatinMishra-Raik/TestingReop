@@ -19,8 +19,8 @@
 ## Step 4: Create the TNSNAMES.ORA File
 1. In the C:\oracle\instantclient-basic-windows.x64-19.24.0.0.0dbru\instantclient_19_24 folder, create a new file named tnsnames.ora.
 2. Replace YOUR_DB_ALIAS with a name for this connection (e.g., ORCL).
-3.Replace your_db_host, your_db_port, and your_service_name with the appropriate values for your database connection.
-4.oskqdkn
+3. Replace your_db_host, your_db_port, and your_service_name with the appropriate values for your database connection.
+4. oskqdkn
 ![Added Image](./ODBC-driver-setup-screenshots/Screenshot-2024-11-06-135119.png)<br>
 
 ## Step 5: Set Up Environment Variables
